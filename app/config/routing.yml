@@ -1,0 +1,7 @@
+sinenco_allopass_api:
+    resource: "@SinencoAllopassAPIBundle/Resources/config/routing.yml"
+    prefix:   /
+
+app:
+    resource: "@AppBundle/Controller/"
+    type:     annotation

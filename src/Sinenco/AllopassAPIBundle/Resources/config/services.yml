@@ -1,0 +1,4 @@
+services:
+#    sinenco_allopass_api.example:
+#        class: Sinenco\AllopassAPIBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
