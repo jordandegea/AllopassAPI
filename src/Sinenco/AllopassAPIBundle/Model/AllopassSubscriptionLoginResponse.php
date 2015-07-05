@@ -11,7 +11,8 @@ use Sinenco\AllopassAPIBundle\Model\AllopassApiMappingResponse ;
 /**
  * Class defining subscription login request's response
  *
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Mathieu Robert <mrobert@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Mathieu Robert <mrobert@hi-media.com>
  *
  * @date 2011 (c) Hi-media
  */

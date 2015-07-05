@@ -12,7 +12,8 @@ use Sinenco\AllopassAPIBundle\Model\AllopassOnetimeValidateCodesResponse ;
 /**
  * Class providing a onetime validate codes API request
  *
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Jérémy Langlais <jlanglais@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Jérémy Langlais <jlanglais@hi-media.com>
  *
  * @date 2010 (c) Hi-media
  */

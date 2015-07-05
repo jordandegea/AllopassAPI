@@ -10,7 +10,8 @@ use SimpleXMLElement ;
 /**
  * Class providing object mapping of a product item
  *
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Mathieu Robert <mrobert@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Mathieu Robert <mrobert@hi-media.com>
  *
  * @date 2011 (c) Hi-media
  */

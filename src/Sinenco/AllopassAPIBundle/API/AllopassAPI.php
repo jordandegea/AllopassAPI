@@ -21,8 +21,10 @@ use Sinenco\AllopassAPIBundle\Model\AllopassSubscriptionDetailRequest;
 /**
  * Class providing a convenient way to make Allopass API requests
  *
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Mathieu Robert <mrobert@hi-media.com>
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Jérémy Langlais <jlanglais@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Mathieu Robert <mrobert@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Jérémy Langlais <jlanglais@hi-media.com>
  *
  * @date 2011 (c) Hi-media
  */

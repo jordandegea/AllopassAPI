@@ -11,7 +11,8 @@ use Sinenco\AllopassAPIBundle\Model\AllopassApiResponse ;
 /**
  * Class defining a plain API response
  *
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Jérémy Langlais <jlanglais@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Jérémy Langlais <jlanglais@hi-media.com>
  *
  * @date 2009 (c) Hi-media
  */

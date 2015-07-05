@@ -13,7 +13,8 @@ use Sinenco\AllopassAPIBundle\Model\AllopassWebsite ;
 /**
  * Class defining a product detail request's response
  *
- * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> \n *  Jérémy Langlais <jlanglais@hi-media.com>
+ * @author Jordan DE GEA for Sinenco <webmaster@sinenco.com> 
+ * @author Jérémy Langlais <jlanglais@hi-media.com>
  *
  * @date 2009 (c) Hi-media
  */
