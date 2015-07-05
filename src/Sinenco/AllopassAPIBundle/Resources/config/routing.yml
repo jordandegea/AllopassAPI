@@ -1,3 +1,0 @@
-sinenco_allopass_api_homepage:
-    path:     /hello
-    defaults: { _controller: SinencoAllopassAPIBundle:Default:index }
