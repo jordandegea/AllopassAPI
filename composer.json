@@ -21,5 +21,10 @@
             "Sinenco\\AllopassAPIBundle" : ""
         }
     },
-    "target-dir" : "Sinenco/AllopassAPIBundle"
+    "target-dir" : "Sinenco/AllopassAPIBundle",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "v1.0.0"
+        }
+    }
 }
