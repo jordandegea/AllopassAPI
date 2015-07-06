@@ -1,5 +1,6 @@
 {
     "name" : "sinenco/allopassapi",
+    "version" : "1.0.0",
     "description" : "API Allopass for Symfony",
     "type" : "symfony-bundle",
     "authors" : [{
